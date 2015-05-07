@@ -10,3 +10,6 @@ E:\MvvmSample\MvvmSample\bin\Debug\MvvmSample.exe
 E:\MvvmSample\MvvmSample\bin\Debug\MvvmSample.pdb
 E:\MvvmSample\MvvmSample\obj\Debug\MvvmSample.exe
 E:\MvvmSample\MvvmSample\obj\Debug\MvvmSample.pdb
+C:\Users\balamurali.AUGUSTAHITECH\Documents\GitHub\SampleRep\MvvmSample\MvvmSample\bin\Debug\MvvmSample.exe.config
+C:\Users\balamurali.AUGUSTAHITECH\Documents\GitHub\SampleRep\MvvmSample\MvvmSample\obj\Debug\MvvmSample.exe
+C:\Users\balamurali.AUGUSTAHITECH\Documents\GitHub\SampleRep\MvvmSample\MvvmSample\obj\Debug\MvvmSample.pdb
